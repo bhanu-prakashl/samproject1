@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D6B9-4BB9
+
+ Directory of D:\GitProject
+
+08/01/2018  06:01 PM    <DIR>          .
+08/01/2018  06:01 PM    <DIR>          ..
+08/01/2018  06:01 PM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  261,377,003,520 bytes free
